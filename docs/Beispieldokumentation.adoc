@@ -1,7 +1,7 @@
 = Beispiel-Dokumentation mit AsciiDoc 
 Hieu Trung Thi <hieu.pri0.03@gmail.com> 
 2.0.18= Beispiel-Dokumentation mit AsciiDoc 
-Vorname Nachname <email> 
+Hieu Trung Thi <hieu.pri0.03@gmail.com> 
 1.0, 01.09.2019 
 :toc: 
 :toc-title: Inhaltsverzeichnis
