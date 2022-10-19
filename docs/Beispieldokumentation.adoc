@@ -15,3 +15,23 @@ Dieses Dokument dient im Praktikum als Spielwiese für das Kennenlernen und prak
 
 == Einführung
 Dieses Dokument dient im Praktikum als Spielwiese für das Kennenlernen und praktische Üben der Syntax von AsciiDoc.
+
+== Kennenlernen der Syntax
+
+Über die Aufgaben wird Dokument Stück für Stück aufgebaut und angepasst
+
+== Listen
+
+.Beispiel: Einkaufsliste (unsortierte Liste)
+// Platzhalter
+*Milch
+*Käse
+
+.Beispiel: Kochrezept (sortierte Liste)
+//Platzhalter
+1. Eier aufschlagen
+2. salzen und pfeffern
+3. verquirlen
+...
+
+
