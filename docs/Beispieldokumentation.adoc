@@ -13,8 +13,6 @@ Dieses Dokument dient im Praktikum als Spielwiese für das Kennenlernen und prak
 :toc-title: Inhaltsverzeichnis
 // Platzhalter für weitere Dokumenten-Attribute 
 
-== Einführung
-Dieses Dokument dient im Praktikum als Spielwiese für das Kennenlernen und praktische Üben der Syntax von AsciiDoc.
 
 == Kennenlernen der Syntax
 
