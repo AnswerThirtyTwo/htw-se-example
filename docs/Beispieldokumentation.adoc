@@ -1,10 +1,10 @@
 = Beispiel-Dokumentation mit AsciiDoc 
 Hieu Trung Thi <hieu.pri0.03@gmail.com> 
-2.0.18= Beispiel-Dokumentation mit AsciiDoc 
-Hieu Trung Thi <hieu.pri0.03@gmail.com> 
-1.0, 01.09.2019 
+2.0.18, 1.0, 01.09.2019 
 :toc: 
 :toc-title: Inhaltsverzeichnis
+:source-highlighter: rouge
+:imagesdir:
 // Platzhalter für weitere Dokumenten-Attribute 
 
 == Einführung
@@ -20,12 +20,14 @@ Dieses Dokument dient im Praktikum als Spielwiese für das Kennenlernen und prak
 
 Über die Aufgaben wird Dokument Stück für Stück aufgebaut und angepasst
 
+In diesem Dokument befindet sich <<Ein Beispielprogramm in C>> und <<Formatierungstabelle>>
+
 == Listen
 
 .Beispiel: Einkaufsliste (unsortierte Liste)
 // Platzhalter
-*Milch
-*Käse
+* Milch
+* Käse
 
 .Beispiel: Kochrezept (sortierte Liste)
 //Platzhalter
@@ -34,4 +36,46 @@ Dieses Dokument dient im Praktikum als Spielwiese für das Kennenlernen und prak
 3. verquirlen
 ...
 
+.Formatierung von Text
+[cols="1,1,2"] 
+|===
+|Formatierung |Syntax |Beschreibung
 
+|*bold*
+|\*bold*
+|fetter Text
+
+|_italic_
+|\__italic__
+|kursiver Text
+
+|monospace
+|`monospace`
+|Text mit fester Laufweite
+
+
+|*_bolditalic_*
+|\\*_bolditalic_*
+|Text mit kombinierter Formatierung
+
+|\\**bold**__italic__
+|\\**bold**__italic__
+|Text mit Formatierung innerhalb eines Wortes
+
+|===
+
+*S* oftware *E* n __gi__ nee ´ring´
+
+=== Quellcode
+[source, c]
+....
+#include <stdio.h>
+
+int main(int argc, char* argv[])
+{
+    printf("Hello, World!\n");
+    return 0;
+}
+
+===Bilder
+Marke: []
