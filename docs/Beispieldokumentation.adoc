@@ -4,15 +4,11 @@ Hieu Trung Thi <hieu.pri0.03@gmail.com>
 :toc: 
 :toc-title: Inhaltsverzeichnis
 :source-highlighter: rouge
-:imagesdir:
+:imagesdir: bilder
 // Platzhalter für weitere Dokumenten-Attribute 
 
 == Einführung
 Dieses Dokument dient im Praktikum als Spielwiese für das Kennenlernen und praktische Üben der Syntax von AsciiDoc., 17.10.22
-:toc: 
-:toc-title: Inhaltsverzeichnis
-// Platzhalter für weitere Dokumenten-Attribute 
-
 
 == Kennenlernen der Syntax
 
